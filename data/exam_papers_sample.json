@@ -1,0 +1,24 @@
+{
+  "exams": [
+    {
+      "exam_id": "n2_2024_07",
+      "title": "2024年7月 N2模拟试验",
+      "type": "full_exam",
+      "version": "1.0.0",
+      "release_date": "2024-07-01",
+      "difficulty": "N2",
+      "total_questions": 170,
+      "duration_minutes": 170,
+      "description": "最新的2024年7月N2模拟试验。公式试验与同じ形式と難易度で実施されます。",
+      "questions": [
+        {
+          "text": "以下の文の____に最��よく合う言葉を選びなさい。彼の話は複雑で、____理解することができなかった。",
+          "type": "multiple_choice",
+          "options": ["到底", "どうしても", "なかなか", "いずれ"],
+          "correct_answer": "どうしても",
+          "explanation": "「どうしても」は「努力してもなかなか～できない」という意味です。ここでは複雑な話を理解するのが難しいという状況を表します。"
+        }
+      ]
+    }
+  ]
+}
